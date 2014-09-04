@@ -28,6 +28,8 @@
 {
     [super didReceiveMemoryWarning];
     NSLog(@"Hello World");
+    NSLog(@"Hello World");
+    NSLog(@"Hello World");
 
     
     // Dispose of any resources that can be recreated.
